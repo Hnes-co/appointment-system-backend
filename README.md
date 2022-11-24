@@ -7,8 +7,8 @@
 ### Usage
 
 ```bash
-> git clone https://github.com/Hnes-co/appointment-system-backend.git
-> cd appointment-system-backend 
+> git clone https://github.com/Hnes-co/appointment-system-test-server.git
+> cd appointment-system-test-server 
 > npm install
 ```
 
