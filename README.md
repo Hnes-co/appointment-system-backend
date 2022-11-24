@@ -1,9 +1,8 @@
-## react-appointment-system backend server
+## react-appointment-system testing server
 
 - Simple Node.js server made for [react-appointment-system](https://github.com/Hnes-co/appointment-system)
 - Uses express and mongoose
 - Nodemailer for sending appointment confirmation emails 
-- Nodemon for development
 
 ### Usage
 
